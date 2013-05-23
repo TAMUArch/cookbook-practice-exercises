@@ -7,4 +7,4 @@ manually first.
 
 Exercise 1
 ----------
-[Create a simple NTP Cookbook with tests](https://github.com/TAMUArch/cookbook-practice-exercises/EXERCISE1.md)
+[Create a simple NTP Cookbook with tests](https://github.com/TAMUArch/cookbook-practice-exercises/blob/master/EXERCISE1.md)
