@@ -9,6 +9,7 @@ Tools Needed
 * foodcritic
 * Berkshelf
 * Virtualbox
+* git
 
 Testing
 -------
